@@ -14,3 +14,6 @@ run:
         aws lambda invoke --function-name TestFunction outputfile
         cat outputfile
         rm outputfile
+        
+delete:
+        aws lambda delete-function --function-name TestFunction

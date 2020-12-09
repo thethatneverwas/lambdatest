@@ -1,0 +1,6 @@
+#!/bin/bash
+
+export AWS_ACCESS_KEY_ID=AKIARWLGKZUT57WKKVO3
+export AWS_SECRET_ACCESS_KEY=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
+export AWS_DEFAULT_REGION=us-west-2
+export LAMBDA_ROLE_ARN=116715605287:role/lambda-role

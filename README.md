@@ -1,8 +1,8 @@
 # README
 
-This is a very simple npm handler to test AWS Lambda.
+This is a very simple npm handler running on AWS Lambda.
 
-1. Before you run, you need to configure your AWS CLI with your developer keys. You also need to create and configure a Lambda role.
+1. Prerequisite: you need to configure your AWS CLI with your developer keys. You also need to create and configure a Lambda role.
 
 ```sh
 
